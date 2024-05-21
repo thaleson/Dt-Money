@@ -28,7 +28,7 @@ O dt-money é um aplicativo React desenvolvido para ajudar no controle financeir
 - React.js
 - Styled Components
 - Context API (para gerenciamento de estado global)
-- ...
+
 
 ## Contribuição 🤝
 
