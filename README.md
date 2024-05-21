@@ -36,8 +36,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 ## Autor
 
-[Thaleson silva] - [Dev Full stack] - [thaleson19@hotmail.com]
+Thaleson silva- Dev Full stack - thaleson19@hotmail.com
 
 ## Licença 📄
 
-Este projeto está sob a licença [MIT]. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Este projeto está sob a licença Mit. Consulte o arquivo LICENSE(LICENSE) para obter mais detalhes.
