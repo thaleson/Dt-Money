@@ -1,46 +1,43 @@
-# Getting Started with Create React App
+# dt-money 💰💳
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O dt-money é um aplicativo React desenvolvido para ajudar no controle financeiro pessoal. Com o dt-money, você pode calcular suas entradas e saídas, bem como o total do que você gastou, com base em títulos, categorias e valores das transações. Além disso, o aplicativo inclui um modal para cadastrar novas transações de forma prática e rápida.
 
-## Available Scripts
+## Funcionalidades 🚀
 
-In the project directory, you can run:
+- Registre suas transações financeiras (entradas e saídas).
+- Visualize o histórico de transações com detalhes como título, categoria e valor.
+- Veja o saldo atual com base nas transações registradas.
+- Adicione novas transações facilmente através de um modal intuitivo.
 
-### `npm start`
+## Como usar 📝
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. **Instalação:**
+   Clone este repositório e execute o comando `npm install` para instalar as dependências.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. **Execução:**
+   Após a instalação, execute o comando `npm start` para iniciar o servidor de desenvolvimento. O aplicativo será aberto automaticamente no seu navegador padrão.
 
-### `npm test`
+3. **Uso:**
+   - Na página inicial, você verá o saldo atual, o histórico de transações e um formulário para adicionar novas transações.
+   - Para adicionar uma nova transação, clique no botão "Nova Transação" e preencha os campos solicitados no modal.
+   - Cada transação será exibida na lista com o título, categoria e valor correspondentes.
+   - O saldo atual será atualizado automaticamente com base nas transações registradas.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tecnologias Utilizadas 🛠️
 
-### `npm run build`
+- React.js
+- Styled Components
+- Context API (para gerenciamento de estado global)
+- ...
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contribuição 🤝
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou uma issue se encontrar algum problema ou tiver sugestões para melhorias.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Autor
 
-### `npm run eject`
+[Thaleson silva] - [Dev Full stack] - [thaleson19@hotmail.com]
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Licença 📄
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este projeto está sob a licença [MIT]. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
